@@ -1,0 +1,7 @@
+[
+  {"cameraId":"CAM-GLS-014","roadSegmentId":"SEG-001","zoneId":"ZON-001","type":"ANPR","model":"Axis Q1700","laneNumber":2,"status":"online","confidence":99.2},
+  {"cameraId":"CAM-MIR-021","roadSegmentId":"SEG-002","zoneId":"ZON-002","type":"Speed","model":"Hikvision iDS","laneNumber":4,"status":"degraded","confidence":82.4},
+  {"cameraId":"CAM-MTJ-008","roadSegmentId":"SEG-003","zoneId":"ZON-003","type":"ANPR","model":"Axis P1468","laneNumber":1,"status":"offline","confidence":0},
+  {"cameraId":"CAM-DHN-033","roadSegmentId":"SEG-004","zoneId":"ZON-004","type":"Signal","model":"Dahua ITC","laneNumber":3,"status":"online","confidence":94.8},
+  {"cameraId":"CAM-UTR-019","roadSegmentId":"SEG-005","zoneId":"ZON-005","type":"Speed","model":"Axis Q1700","laneNumber":5,"status":"online","confidence":97.6}
+]

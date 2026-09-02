@@ -1,0 +1,7 @@
+node_modules/
+.playwright/
+test-results/
+playwright-report/
+.env
+.faculty-demo-passwords.json
+*.log

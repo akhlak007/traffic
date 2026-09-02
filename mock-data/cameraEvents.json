@@ -1,0 +1,6 @@
+[
+  {"cameraEventId":"CEV-1001","cameraId":"CAM-GLS-014","vehicleId":"VEH-001","eventType":"violation","capturedAt":"2026-08-05T08:42:11+06:00","confidenceScore":96.8},
+  {"cameraEventId":"CEV-1002","cameraId":"CAM-MIR-021","vehicleId":"VEH-002","eventType":"violation","capturedAt":"2026-08-05T09:18:37+06:00","confidenceScore":47.4},
+  {"cameraEventId":"CEV-1003","cameraId":"CAM-DHN-033","vehicleId":"VEH-003","eventType":"congestion","capturedAt":"2026-08-05T10:05:18+06:00","confidenceScore":91.2},
+  {"cameraEventId":"CEV-1004","cameraId":"CAM-UTR-019","vehicleId":"VEH-004","eventType":"suspicious","capturedAt":"2026-08-05T11:22:49+06:00","confidenceScore":98.1}
+]

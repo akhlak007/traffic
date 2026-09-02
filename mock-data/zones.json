@@ -1,0 +1,7 @@
+[
+  {"zoneId":"ZON-001","name":"Gulshan","area":"Dhaka North","status":"safe"},
+  {"zoneId":"ZON-002","name":"Mirpur","area":"Dhaka North","status":"warning"},
+  {"zoneId":"ZON-003","name":"Motijheel","area":"Dhaka South","status":"danger"},
+  {"zoneId":"ZON-004","name":"Dhanmondi","area":"Dhaka South","status":"warning"},
+  {"zoneId":"ZON-005","name":"Uttara","area":"Dhaka North","status":"safe"}
+]

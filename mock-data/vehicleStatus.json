@@ -1,0 +1,5 @@
+[
+  {"statusId":"VST-001","vehicleId":"VEH-001","status":"clear","reason":"No active watch status","remarks":"Verified by DMP","effectiveDate":"2026-01-01","expiryDate":"2026-12-31"},
+  {"statusId":"VST-002","vehicleId":"VEH-003","status":"wanted","reason":"Permit investigation","remarks":"Escalated to Motijheel unit","effectiveDate":"2026-08-02","expiryDate":null},
+  {"statusId":"VST-003","vehicleId":"VEH-004","status":"stolen","reason":"GD 882/26","remarks":"Immediate interception required","effectiveDate":"2026-08-04","expiryDate":null}
+]

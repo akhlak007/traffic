@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Traffic AI Dhaka | Create Owner Account</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;600;700;800&family=Outfit:wght@700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/tokens.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css">
+</head>
+<body>
+  <main class="login-layout">
+    <section class="login-visual">
+      <div class="brand"><span class="brand-mark"><i data-lucide="scan-line"></i></span><span>TRAFFIC AI<small>DHAKA CONTROL</small></span></div>
+      <div class="login-visual__copy"><p class="eyebrow">Vehicle owner registration</p><h1>Create your<br>owner account.</h1><p>Register as a vehicle owner. Staff roles are assigned by the system and cannot be self-created.</p></div>
+    </section>
+    <section class="login-panel">
+      <form class="neo-card login-card" id="register-form">
+        <button type="button" class="button button--back" data-back-btn style="margin-bottom:12px;align-self:flex-start;"><i data-lucide="arrow-left"></i><span>Back</span></button>
+        <p class="eyebrow">Owner sign-up</p>
+        <h2>Create Owner Account</h2>
+        <p class="muted">Use your name and email. Only the vehicle-owner role can be created here.</p>
+        <div class="field-group"><label for="first-name">First name</label><input class="field" id="first-name" name="firstName" required minlength="2" maxlength="30" autocomplete="given-name"></div>
+        <div class="field-group"><label for="last-name">Last name</label><input class="field" id="last-name" name="lastName" required minlength="2" maxlength="30" autocomplete="family-name"></div>
+        <div class="field-group"><label for="register-email">Email</label><input class="field" id="register-email" name="email" type="email" required maxlength="100" autocomplete="email"></div>
+        <div class="field-group"><label for="register-address">Address</label><input class="field" id="register-address" name="address" required minlength="5" maxlength="200" autocomplete="street-address" placeholder="Area, Dhaka"></div>
+        <div class="field-group"><label for="register-password">Password</label><input class="field" id="register-password" name="password" type="password" required minlength="8" maxlength="72" autocomplete="new-password"></div>
+        <div class="field-group"><label for="confirm-password">Confirm password</label><input class="field" id="confirm-password" name="confirmPassword" type="password" required minlength="8" maxlength="72" autocomplete="new-password"></div>
+        <button class="button button--primary" type="submit">Create account</button>
+        <p class="muted" style="margin-top:16px"><a href="index.html">Back to sign in</a></p>
+      </form>
+    </section>
+  </main>
+  <script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js"></script><script type="module" src="js/register.js"></script>
+</body>
+</html>

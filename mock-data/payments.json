@@ -1,0 +1,4 @@
+[
+  {"paymentId":"PAY-001","noticeId":"NOT-260702","ownerId":"OWN-001","amount":3000,"date":"2026-07-10","status":"completed","method":"bKash","referenceNumber":"BK8F2K91","receiptNumber":"RCP-260710-01"},
+  {"paymentId":"PAY-002","noticeId":"NOT-260650","ownerId":"OWN-002","amount":1800,"date":"2026-06-28","status":"completed","method":"Bank","referenceNumber":"DBBL-674190","branchName":"Dhanmondi"}
+]

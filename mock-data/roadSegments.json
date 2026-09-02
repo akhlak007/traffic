@@ -1,0 +1,7 @@
+[
+  {"roadSegmentId":"SEG-001","zoneId":"ZON-001","name":"Gulshan Avenue","lanes":4,"speedLimit":50,"startPoint":"Gulshan 1","endPoint":"Gulshan 2"},
+  {"roadSegmentId":"SEG-002","zoneId":"ZON-002","name":"Mirpur Road","lanes":6,"speedLimit":60,"startPoint":"Gabtoli","endPoint":"Technical"},
+  {"roadSegmentId":"SEG-003","zoneId":"ZON-003","name":"Dilkusha Road","lanes":4,"speedLimit":40,"startPoint":"Shapla Chattar","endPoint":"Dainik Bangla"},
+  {"roadSegmentId":"SEG-004","zoneId":"ZON-004","name":"Satmasjid Road","lanes":4,"speedLimit":50,"startPoint":"Dhanmondi 27","endPoint":"Jigatola"},
+  {"roadSegmentId":"SEG-005","zoneId":"ZON-005","name":"Airport Road","lanes":8,"speedLimit":60,"startPoint":"House Building","endPoint":"Jashimuddin"}
+]

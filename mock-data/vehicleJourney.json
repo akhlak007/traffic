@@ -1,0 +1,5 @@
+[
+  {"journeyId":"JRN-001","vehicleId":"VEH-001","roadSegmentId":"SEG-005","cameraId":"CAM-UTR-019","intervalNumber":1,"startTime":"2026-08-05T07:55:00+06:00","endTime":"2026-08-05T08:04:00+06:00","averageSpeed":48,"distanceTravelledKm":6.2,"intervalLocation":"Airport Road"},
+  {"journeyId":"JRN-002","vehicleId":"VEH-001","roadSegmentId":"SEG-001","cameraId":"CAM-GLS-014","intervalNumber":2,"startTime":"2026-08-05T08:31:00+06:00","endTime":"2026-08-05T08:44:00+06:00","averageSpeed":57,"distanceTravelledKm":4.8,"intervalLocation":"Gulshan Avenue"},
+  {"journeyId":"JRN-003","vehicleId":"VEH-004","roadSegmentId":"SEG-003","cameraId":"CAM-MTJ-008","intervalNumber":1,"startTime":"2026-08-05T10:58:00+06:00","endTime":"2026-08-05T11:24:00+06:00","averageSpeed":24,"distanceTravelledKm":3.1,"intervalLocation":"Dilkusha Road"}
+]

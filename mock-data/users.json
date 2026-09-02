@@ -1,0 +1,7 @@
+[
+  {"userId":"USR-001","firstName":"Mushfiq","lastName":"Ahmed","phone":"01711000001","role":"Admin","designation":"System Administrator","zoneId":null,"status":"active"},
+  {"userId":"USR-002","firstName":"Indira","lastName":"Hossain","phone":"01711000002","role":"Traffic Officer","designation":"Sergeant","zoneId":"ZON-002","status":"active"},
+  {"userId":"USR-003","firstName":"Labiba","lastName":"Khan","phone":"01711000003","role":"Supervisor","designation":"Inspector","zoneId":"ZON-001","status":"active"},
+  {"userId":"USR-004","firstName":"Zubaer","lastName":"Ahmed","phone":"01711000004","role":"Vehicle Owner","designation":null,"zoneId":null,"status":"active"},
+  {"userId":"USR-005","firstName":"Jamila","lastName":"Akter","phone":"01711000005","role":"DMP Officer","designation":"Sub-Inspector","zoneId":"ZON-003","status":"active"}
+]

@@ -1,0 +1,4 @@
+[
+  {"congestionEventId":"CON-001","cameraEventId":"CEV-1003","roadSegmentId":"SEG-004","vehicleCount":86,"time":"2026-08-05T10:05:18+06:00","severity":"high"},
+  {"congestionEventId":"CON-002","cameraEventId":"CEV-1006","roadSegmentId":"SEG-002","vehicleCount":54,"time":"2026-08-05T12:15:00+06:00","severity":"medium"}
+]

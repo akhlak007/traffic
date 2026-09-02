@@ -1,0 +1,4 @@
+[
+  {"appealId":"APP-001","noticeId":"NOT-260788","ownerId":"OWN-002","reason":"Vehicle was not in the indicated lane","justification":"The bus route log and attached trip sheet show lane 2 at the recorded time.","applicationDate":"2026-08-04","reviewDate":null,"reviewStatus":"pending","remarks":null,"supervisorId":"USR-003"},
+  {"appealId":"APP-002","noticeId":"NOT-260621","ownerId":"OWN-001","reason":"Emergency medical travel","justification":"Travel was during a documented medical emergency.","applicationDate":"2026-06-22","reviewDate":"2026-06-25","reviewStatus":"dismissed","remarks":"Evidence accepted","supervisorId":"USR-003"}
+]

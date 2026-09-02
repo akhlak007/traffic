@@ -1,0 +1,4 @@
+[
+  {"evidenceId":"EVD-001","cameraEventId":"CEV-1001","evidenceName":"Speed frame A","capturedImagePath":"/assets/evidence/cev-1001-frame.jpg","capturedVideoPath":"/assets/evidence/cev-1001-clip.mp4","capturedAt":"2026-08-05T08:42:11+06:00"},
+  {"evidenceId":"EVD-002","cameraEventId":"CEV-1002","evidenceName":"Signal frame B","capturedImagePath":"/assets/evidence/cev-1002-frame.jpg","capturedVideoPath":"/assets/evidence/cev-1002-clip.mp4","capturedAt":"2026-08-05T09:18:37+06:00"}
+]

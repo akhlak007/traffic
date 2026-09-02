@@ -1,0 +1,4 @@
+[
+  {"roadDefectEventId":"RDE-001","roadSegmentId":"SEG-002","cameraEventId":null,"type":"Pothole","severity":"high","status":"reported","reportedAt":"2026-08-05T11:20:00+06:00"},
+  {"roadDefectEventId":"RDE-002","roadSegmentId":"SEG-004","cameraEventId":null,"type":"Damaged signal","severity":"medium","status":"assigned","reportedAt":"2026-08-04T18:10:00+06:00"}
+]

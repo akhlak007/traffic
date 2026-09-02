@@ -1,0 +1,27 @@
+{
+  "name": "ai-traffic-backend",
+  "version": "1.0.0",
+  "description": "Node.js Express backend for Bangladesh AI Traffic System using Oracle DB",
+  "engines": {
+    "node": ">=20"
+  },
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "check": "node scripts/check.mjs",
+    "test": "node --test tests/*.test.js",
+    "test:oracle": "node scripts/validate-oracle.mjs",
+    "test:browser": "playwright test"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "oracledb": "^6.5.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.62.1"
+  }
+}

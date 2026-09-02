@@ -1,0 +1,4 @@
+[
+  {"suspiciousVehicleEventId":"SVE-001","cameraEventId":"CEV-1004","vehicleId":"VEH-004","type":"Stolen vehicle match","date":"2026-08-05","time":"11:22:49","status":"escalated"},
+  {"suspiciousVehicleEventId":"SVE-002","cameraEventId":"CEV-1007","vehicleId":"VEH-003","type":"Wanted vehicle match","date":"2026-08-05","time":"12:40:16","status":"open"}
+]

@@ -1,0 +1,5 @@
+[
+  {"alertEventId":"ALT-001","roadSegmentId":"SEG-003","name":"Camera offline","type":"infrastructure","status":"open","severity":"danger","time":"2026-08-05T14:27:09+06:00"},
+  {"alertEventId":"ALT-002","roadSegmentId":"SEG-002","name":"Review queue threshold","type":"operations","status":"open","severity":"warning","time":"2026-08-05T14:18:42+06:00"},
+  {"alertEventId":"ALT-003","roadSegmentId":"SEG-004","name":"Heavy congestion","type":"traffic","status":"monitoring","severity":"warning","time":"2026-08-05T13:49:02+06:00"}
+]

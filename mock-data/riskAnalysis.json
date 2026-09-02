@@ -1,0 +1,5 @@
+[
+  {"riskAnalysisId":"RSK-001","roadSegmentId":"SEG-003","analysisDate":"2026-08-01","accidentCount":14,"violationCount":186,"riskLevel":"critical"},
+  {"riskAnalysisId":"RSK-002","roadSegmentId":"SEG-002","analysisDate":"2026-08-01","accidentCount":8,"violationCount":121,"riskLevel":"high"},
+  {"riskAnalysisId":"RSK-003","roadSegmentId":"SEG-005","analysisDate":"2026-08-01","accidentCount":3,"violationCount":79,"riskLevel":"medium"}
+]

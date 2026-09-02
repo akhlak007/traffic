@@ -1,0 +1,6 @@
+[
+  {"noticeId":"NOT-260801","violationEventId":"VIO-1001","violationType":"Overspeed","vehicleId":"VEH-001","ownerId":"OWN-001","fineAmount":2500,"issueDate":"2026-08-05","dueDate":"2026-08-20","status":"pending"},
+  {"noticeId":"NOT-260744","violationEventId":"VIO-0990","violationType":"Wrong Lane","vehicleId":"VEH-002","ownerId":"OWN-001","fineAmount":1500,"issueDate":"2026-07-20","dueDate":"2026-08-04","status":"overdue"},
+  {"noticeId":"NOT-260702","violationEventId":"VIO-0955","violationType":"Red Light Violation","vehicleId":"VEH-001","ownerId":"OWN-001","fineAmount":3000,"issueDate":"2026-07-02","dueDate":"2026-07-17","status":"paid"},
+  {"noticeId":"NOT-260788","violationEventId":"VIO-1003","violationType":"Illegal Parking","vehicleId":"VEH-003","ownerId":"OWN-002","fineAmount":2000,"issueDate":"2026-08-03","dueDate":"2026-08-18","status":"appealed"}
+]

@@ -1,0 +1,26 @@
+:root {
+  --color-bg: #fdf6e3;
+  --color-bg-alt: #fff9e6;
+  --color-surface: #ffffff;
+  --color-black: #000000;
+  --color-primary: #1e293b;
+  --color-secondary: #0f766e;
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-danger: #f43f5e;
+  --color-accent-yellow: #f5c518;
+  --color-accent-blue: #4a7fe0;
+  --color-accent-purple: #a855f7;
+  --color-text-muted: #4b5563;
+  --color-bd-green: #006a4e;
+  --color-bd-red: #f42a41;
+  --font-heading: "Outfit", "Archivo Black", sans-serif;
+  --font-body: "Inter", -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "Fira Code", "JetBrains Mono", monospace;
+  --border-default: 2px solid #000000;
+  --shadow-sm: 3px 3px 0 0 #000000;
+  --shadow-md: 4px 4px 0 0 #000000;
+  --shadow-lg: 6px 6px 0 0 #000000;
+  --radius-sm: 6px;
+  --radius-md: 8px;
+}

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Traffic AI Dhaka | Sign in</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;600;700;800&family=Outfit:wght@700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/tokens.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css?v=live-login-3">
+</head>
+<body>
+  <main class="login-layout">
+    <section class="login-visual">
+      <div class="brand"><span class="brand-mark"><i data-lucide="scan-line"></i></span><span>TRAFFIC AI<small>DHAKA CONTROL</small></span></div>
+      <div class="login-visual__copy"><p class="eyebrow">AI traffic violation and management system</p><h1>Safer roads.<br>Clear decisions.</h1><p>One operational view for cameras, violations, notices, appeals, and road intelligence across Dhaka.</p></div>
+    </section>
+    <section class="login-panel">
+      <form class="neo-card login-card" id="role-form">
+        <button type="button" class="button button--back" data-back-btn style="margin-bottom:12px;align-self:flex-start;"><i data-lucide="arrow-left"></i><span>Back</span></button>
+        <p class="eyebrow">Staff sign-in</p>
+        <h2>Enter your workspace</h2>
+        <p class="muted">Live Oracle checks email and password hash in the USER table. Choose the matching workspace role, then sign in. Offline demo uses sample data only.</p>
+        <div class="field-group"><label for="data-mode">Data source</label><select id="data-mode" name="dataMode"><option value="api">Live Oracle API</option><option value="mock">Offline demo data</option></select></div>
+        <div id="credentials-group">
+          <div class="field-group"><label for="login-username">Email</label><input class="field" id="login-username" name="username" type="email" autocomplete="username" placeholder="staff@example.com"></div>
+          <div class="field-group"><label for="login-password">Password</label><input class="field" id="login-password" name="password" type="password" autocomplete="current-password"></div>
+        </div>
+        <div class="role-grid" id="role-group">
+          <div class="role-option"><input id="admin" name="role" value="admin" type="radio" checked><label for="admin"><i data-lucide="settings"></i>Administrator</label></div>
+          <div class="role-option"><input id="officer" name="role" value="officer" type="radio"><label for="officer"><i data-lucide="badge-check"></i>Traffic Officer</label></div>
+          <div class="role-option"><input id="supervisor" name="role" value="supervisor" type="radio"><label for="supervisor"><i data-lucide="clipboard-check"></i>Supervisor</label></div>
+          <div class="role-option"><input id="owner" name="role" value="owner" type="radio"><label for="owner"><i data-lucide="car-front"></i>Vehicle Owner</label></div>
+          <div class="role-option"><input id="dmp" name="role" value="dmp" type="radio"><label for="dmp"><i data-lucide="shield"></i>DMP Officer</label></div>
+        </div>
+        <button class="button button--primary" type="submit">Sign in <i data-lucide="arrow-right"></i></button>
+        <p class="muted" style="margin-top:16px">Don't have an account? <a href="register.html">Create Owner Account</a></p>
+      </form>
+    </section>
+  </main>
+  <script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js"></script><script type="module" src="js/login.js?v=live-login-3"></script>
+</body>
+</html>

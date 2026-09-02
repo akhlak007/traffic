@@ -1,0 +1,6 @@
+[
+  {"vehicleId":"VEH-001","ownerId":"OWN-001","licensePlate":"DHAKA METRO GA 12-3456","type":"Car","model":"Toyota Corolla","color":"White","fitnessStatus":"valid"},
+  {"vehicleId":"VEH-002","ownerId":"OWN-001","licensePlate":"DHAKA METRO LA 22-7811","type":"Motorcycle","model":"Yamaha FZ","color":"Black","fitnessStatus":"expires-soon"},
+  {"vehicleId":"VEH-003","ownerId":"OWN-002","licensePlate":"DHAKA METRO CHA 18-9021","type":"Bus","model":"Ashok Leyland","color":"Green","fitnessStatus":"expired"},
+  {"vehicleId":"VEH-004","ownerId":"OWN-002","licensePlate":"DHAKA METRO TA 31-4408","type":"Truck","model":"Tata LPT","color":"Blue","fitnessStatus":"valid"}
+]

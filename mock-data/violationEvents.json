@@ -1,0 +1,5 @@
+[
+  {"violationEventId":"VIO-1001","cameraEventId":"CEV-1001","vehicleId":"VEH-001","type":"Speeding","speed":78,"speedLimit":50,"laneNumber":2,"status":"confirmed","officerId":"USR-002"},
+  {"violationEventId":"VIO-1002","cameraEventId":"CEV-1002","vehicleId":"VEH-002","type":"Signal breach","speed":31,"speedLimit":40,"laneNumber":1,"status":"pending-review","officerId":null},
+  {"violationEventId":"VIO-1003","cameraEventId":"CEV-1005","vehicleId":"VEH-003","type":"Wrong lane","speed":42,"speedLimit":50,"laneNumber":4,"status":"confirmed","officerId":"USR-002"}
+]
