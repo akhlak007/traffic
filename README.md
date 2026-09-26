@@ -8,6 +8,19 @@ This repository models AI-generated events. It does not contain a trained model.
 
 For extra Windows/Oracle notes see [NEW_LAPTOP_SETUP.md](NEW_LAPTOP_SETUP.md). For architecture diagrams see [ARCHITECTURE.md](ARCHITECTURE.md). The **Fresh Clone Setup** section below is the current handoff guide.
 
+## Stakeholder Consultation: Dhaka Metropolitan Police (DMP) Traffic Division
+
+<p align="center">
+  <img src="assets/reference/dmp_traffic_division_visit.jpg" alt="Visiting Dhaka Metropolitan Police (DMP) Traffic Division" width="850">
+  <br>
+  <em>Team visit and consultation at Dhaka Metropolitan Police (DMP) Traffic Division</em>
+</p>
+
+To ground our system design and business logic in real-world traffic enforcement practices, the team visited the **Dhaka Metropolitan Police (DMP) Traffic Division**. The consultation helped shape our operational requirements, including:
+- **DMP Officer Workflows:** Rapid on-field and central vehicle lookup, violation history tracking, and active notice verification.
+- **Traffic Violation Lifecycle:** Real-time AI detection, officer review, notice issuance, and structured dispute/appeal hierarchies.
+- **Multi-Role Coordination:** Seamless operational handoff between traffic field officers, DMP division supervisors, and vehicle owners.
+
 ## Quick start: mock data only
 
 The default **Demo data** mode uses JSON files in `mock-data/` and does not need Node.js or Oracle.
