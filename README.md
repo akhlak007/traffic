@@ -2,7 +2,7 @@
 
 Coursework prototype for an AI-assisted traffic violation and traffic management system. It includes a multi-role frontend, an Express API, an Oracle schema, demo data, and automated checks.
 
-🌐 **Live Demo (GitHub Pages):** [https://akhlak007.github.io/ai_traffic/](https://akhlak007.github.io/ai_traffic/) *(Select "Offline demo data" for instant static exploration)*
+🌐 **Live Demo (GitHub Pages):** [https://akhlak007.github.io/traffic/](https://akhlak007.github.io/traffic/) *(Select "Offline demo data" for instant static exploration)*
 
 This repository models AI-generated events. It does not contain a trained model. Do not use it for real law-enforcement, identity, evidence, or payment data.
 
@@ -25,7 +25,7 @@ To ground our system design and business logic in real-world traffic enforcement
 
 The default **Demo data** mode uses JSON files in `mock-data/` and does not need Node.js or Oracle.
 
-- **Online directly:** [https://akhlak007.github.io/ai_traffic/](https://akhlak007.github.io/ai_traffic/)
+- **Online directly:** [https://akhlak007.github.io/traffic/](https://akhlak007.github.io/traffic/)
 - **Or locally:**
 
 ```powershell
